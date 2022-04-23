@@ -1,0 +1,10 @@
+console.log("Avanzar y Elimina 1");
+console.log("Avanzar y Elimina 1");
+console.log("Avanzar y Elimina 1");
+console.log("Avanzar y Elimina 1");
+console.log("Girar 90º a la Izquierda");
+console.log("Avanzar y Elimina 1");
+console.log("Avanzar y Elimina 1");
+console.log("Avanzar y Elimina 1");
+console.log("Avanzar y Elimina 1");
+console.log("Avanzar y Elimina 1");
